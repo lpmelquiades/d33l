@@ -1,5 +1,26 @@
 # Outline:
 
+- Took me sometime to get used to sequelize.
+- I think I did a good use of transactions.
+
+- However, my code is all together inside each endpoint declaration.
+- I focused on time. So, no DDD or MVC applied.
+- I think variables are well named.
+- I tried to make a good use of early-returns.
+
+- I will keep making changes to this project:
+https://github.com/lpmelquiades/d33l
+
+- I will add Vitest plus some testing.
+
+- If you have interest in some code samples of mine:
+- Sample of CQRS+DDD:
+    https://github.com/lpmelquiades/post-be-php
+- Sample of (Vitest, NextJS, Postgres, all dockerized):
+    https://github.com/lpmelquiades/qwerty
+
+
+# Timeline:
 2023, Jul 13 at 19:15 >> called npm install
 
 2023, Jul 13 at 21:52 >> had 3 endpoints working (
