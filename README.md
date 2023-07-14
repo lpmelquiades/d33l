@@ -1,7 +1,8 @@
 # Outline:
 
 - I added a postman curl collection: (deel.postman_collection.json)
-- Took me sometime to get used to sequelize.
+- Took me sometime to get used to sequelize. My first time.
+- I used 5 hours for 5 enpoints out of 7.
 - I think I did a good use of transactions.
 
 - However, my code is all together inside each endpoint declaration.
